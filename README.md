@@ -5,12 +5,12 @@ Numpy is one of the most used libraries in Python for arrays manipulation. It ad
 
 You would review these cases:
 
-- [ ] Defining lists and NumPy arrays
-2. Matrix or Array of Arrays
-3. Scaling and translating matrices
-4. Transpose a matrix
-5. Get the norm of an array or matrix
-6. The dot product between arrays
-7. Sums by rows or columns
-8. Get the mean by rows or columns
-9. ...
+- [x] Defining lists and NumPy arrays
+- [ ] Matrix or Array of Arrays
+- [ ] Scaling and translating matrices
+- [ ] Transpose a matrix
+- [ ] Get the norm of an array or matrix
+- [ ] The dot product between arrays
+- [ ] Sums by rows or columns
+- [ ] Get the mean by rows or columns
+- [ ] ...
