@@ -5,7 +5,7 @@ Numpy is one of the most used libraries in Python for arrays manipulation. It ad
 
 You would review these cases:
 
-1. Defining lists and NumPy arrays
+-[ ] Defining lists and NumPy arrays
 2. Matrix or Array of Arrays
 3. Scaling and translating matrices
 4. Transpose a matrix
