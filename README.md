@@ -6,11 +6,11 @@ Numpy is one of the most used libraries in Python for arrays manipulation. It ad
 You would review these cases:
 
 - Defining lists and Numpy arrays
-- [x] Matrix or array of arrays
-- [x] Scaling and translating matrices
-- [x] Transpose a matrix
-- [x] Get the norm of an array or matrix
-- [x] The dot product between arrays
-- [x] Sums by rows or columns
-- [x] Get the mean by rows or columns
-- [x] ...
+- Matrix or array of arrays
+- Scaling and translating matrices
+- Transpose a matrix
+- Get the norm of an array or matrix
+- The dot product between arrays
+- Sums by rows or columns
+- Get the mean by rows or columns
+- ...
